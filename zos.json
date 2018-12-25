@@ -1,0 +1,8 @@
+{
+  "zosversion": "2",
+  "name": "solidity-ecdsa-example",
+  "version": "0.1.0",
+  "contracts": {
+    "EcdsaContract": "EcdsaContract"
+  }
+}
